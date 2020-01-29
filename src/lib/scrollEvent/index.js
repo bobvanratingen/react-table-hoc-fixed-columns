@@ -1,6 +1,6 @@
 import React from 'react';
 import PropTypes from 'prop-types';
-import { ReactTableDefaults } from 'react-table';
+import { ReactTableDefaults } from 'react-table-6';
 import uniqid from 'uniqid';
 import cx from 'classnames';
 import { isLeftFixed, isRightFixed, sortColumns, checkErrors, findPrevColumnNotHidden, findNextColumnNotHidden, memoize } from '../helpers';
